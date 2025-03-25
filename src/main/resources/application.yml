@@ -16,6 +16,11 @@ spring:
           starttls:
             enable: true
   rabbitmq:
+    ssl:
+      enabled: true
+    addresses: amqps://b-3f4888ba-f315-45a3-99ec-74e7afdd1d0b.mq.us-east-2.amazonaws.com:5671
+    username: blogAdmin
+    password: 1234adminamqp
     template:
       exchange: spring.email.message
       default-receive-queue: spring.email.queue
