@@ -8,6 +8,8 @@ RabbitMQ delegate to communicate with AWS MQ broker
 
 ![image](https://github.com/user-attachments/assets/df460b45-f831-45f5-911b-f0f9aaa86fd8)
 
+![image](https://github.com/user-attachments/assets/5e3fa8d5-81f4-4458-8603-a3005468a6b0)
+
 Image and containerized with Docker 
 
 Hosted and deployed on Heroku. 
